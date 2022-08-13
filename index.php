@@ -196,9 +196,8 @@ if (empty($q)) {
           <a href="https://blog.5iux.cn/" style="color: #777;">博客</a> | 
           <a href="https://hao.5iux.cn/" style="color: #777;">设计导航</a> | 
           <a href="https://dyartstyle.com/" style="color: #777;">设计资讯</a> | 
-          <a href="https://wat.dyartstyle.com/" style="color: #777;">吾爱淘</a> | 
           <a href="https://github.com/5iux/sou/" style="color: #777;">Github</a><br>
-          © 2016-<?php echo date("Y") ?> by <a href="https://blog.5iux.cn/">5iux</a> . All rights reserved.</div>
+          © 2016-<?php echo date("Y") ?> by <a href="https://blog.5iux.cn/" style="color: #777;">5iux</a> . All rights reserved.</div>
     </div>
 <!--
 作者:D.Young
